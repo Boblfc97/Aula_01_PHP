@@ -1,0 +1,13 @@
+.caixas{
+    background-color: yellow;
+    min-width: 200px;
+    margin: 10px;
+}
+
+body{
+    display: flex;
+    flex-wrap: wrap;
+}
+h1{
+    min-width: 100%;
+}
